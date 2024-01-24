@@ -1,0 +1,20 @@
+body{
+    background-color: #f3f3f3;
+    color: #4b6970;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.margin{
+    margin: 21px;
+}
+.span{
+    font-style: italic;
+    font-weight: lighter;
+}
+table{
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
